@@ -37,7 +37,7 @@ The dashboard transforms raw sales data into interactive visualizations and summ
 
 ---
 
-## Use Cases
+## 📌Use Cases
 - Business sales analysis
 - Performance tracking
 - Academic projects
